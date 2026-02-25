@@ -1,10 +1,10 @@
-package com.gatcha.monsters_api;
+package com.example.player_api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MonstersApiApplicationTests {
+class PlayerApiApplicationTests {
 
 	@Test
 	void contextLoads() {

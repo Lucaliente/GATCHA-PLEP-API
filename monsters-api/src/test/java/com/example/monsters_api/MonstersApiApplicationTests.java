@@ -1,10 +1,10 @@
-package com.gatcha.auth_api;
+package com.example.monsters_api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AuthApiApplicationTests {
+class MonstersApiApplicationTests {
 
 	@Test
 	void contextLoads() {

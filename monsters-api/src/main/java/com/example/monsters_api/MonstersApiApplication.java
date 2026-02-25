@@ -1,13 +1,13 @@
-package com.gatcha.invocation_api;
+package com.example.monsters_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class InvocationApiApplication {
+public class MonstersApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(InvocationApiApplication.class, args);
+		SpringApplication.run(MonstersApiApplication.class, args);
 	}
 
 }
