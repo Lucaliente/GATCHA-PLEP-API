@@ -1,10 +1,10 @@
-package com.example.invocation_api;
+package com.gatcha.player_api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class InvocationApiApplicationTests {
+class PlayerApiApplicationTests {
 
 	@Test
 	void contextLoads() {

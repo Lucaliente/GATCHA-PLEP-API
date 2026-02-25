@@ -1,13 +1,13 @@
-package com.example.invocation_api;
+package com.gatcha.player_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class InvocationApiApplication {
+public class PlayerApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(InvocationApiApplication.class, args);
+		SpringApplication.run(PlayerApiApplication.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package com.example.auth_api;
+package com.gatcha.invocation_api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AuthApiApplicationTests {
+class InvocationApiApplicationTests {
 
 	@Test
 	void contextLoads() {

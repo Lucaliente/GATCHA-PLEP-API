@@ -1,13 +1,13 @@
-package com.example.player_api;
+package com.gatcha.monsters_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PlayerApiApplication {
+public class MonstersApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PlayerApiApplication.class, args);
+		SpringApplication.run(MonstersApiApplication.class, args);
 	}
 
 }
